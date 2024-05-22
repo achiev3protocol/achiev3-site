@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function Home() {
     return (
         <main className="flex flex-col items-center justify-between p-24">
-            <h1 className="text-6xl font-bold mb-2">achive3</h1>
+            <h1 className="text-6xl font-bold mb-2">achieve3</h1>
             
             <p className="text-lg my-4">
                 achiev3 is a standardized protocol for defining and rewarding achievements onchain. It is open source (MIT License), decentralized, and composable, enabling anyone to tap into the robust set of contracts onchain to define 
