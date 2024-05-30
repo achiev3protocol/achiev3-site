@@ -21,8 +21,11 @@ export default function Home() {
             <p className="my-2">All code is MIT licensed unless otherwise noted.</p>
 
             <ul className="text-lg list-disc">
-                <li className="my-2">
+                <li className="my-1">
                     <Link href="https://github.com/achiev3protocol/achiev3-foundry" className="text-red-800 hover:text-red-600" target="_blank">foundry</Link> - protocol smart contracts
+                </li>
+                <li className="my-1">
+                    <Link href="https://github.com/achiev3protocol/achiev3-site" className="text-red-800 hover:text-red-600" target="_blank">website</Link> - achiev3.com nextjs site
                 </li>
             </ul>
 
