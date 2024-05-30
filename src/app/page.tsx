@@ -9,11 +9,11 @@ export default function Home() {
             
             <p className="text-lg my-4 mx-8">
                 achiev3 is a protocol for defining and rewarding achievements on-chain. It is open source (MIT License), decentralized, and composable, enabling anyone to tap into the robust set of contracts onchain to define 
-                their perfect rewards for users accomplishing tasks.
+                their perfect set of digital rewards for their players and users.
             </p>
 
             <p className="text-lg my-4 mx-8">
-                Coming Summer 2024 to Base. Founded by <Link href="https://ens0.me">ens0.eth</Link>.
+                Coming Summer 2024 to Base. Founded by <Link className="text-red-800 hover:text-red-600" href="https://ens0.me">ens0.eth</Link>.
             </p>
 
             <h2 className="text-3xl font-bold my-4">repos</h2>
