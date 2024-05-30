@@ -4,7 +4,7 @@ import { RiTwitterXFill } from "react-icons/ri"
 export default function Home() {
     return (
         <main className="flex flex-col items-center justify-between p-24">
-            <h1 className="text-6xl font-bold mb-2">achieve3</h1>
+            <h1 className="text-6xl font-bold mb-2">achiev3</h1>
             
             <p className="text-lg my-4 mx-8">
                 achiev3 is a protocol for defining and rewarding achievements on-chain. It is open source (MIT License), decentralized, and composable, enabling anyone to tap into the robust set of contracts onchain to define 
