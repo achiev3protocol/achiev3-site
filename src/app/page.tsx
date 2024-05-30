@@ -1,5 +1,6 @@
 import Link from 'next/link'
 import { RiTwitterXFill } from "react-icons/ri"
+import { FaGithub } from "react-icons/fa"
 
 export default function Home() {
     return (
@@ -9,6 +10,10 @@ export default function Home() {
             <p className="text-lg my-4 mx-8">
                 achiev3 is a protocol for defining and rewarding achievements on-chain. It is open source (MIT License), decentralized, and composable, enabling anyone to tap into the robust set of contracts onchain to define 
                 their perfect rewards for users accomplishing tasks.
+            </p>
+
+            <p className="text-lg my-4 mx-8">
+                Coming Summer 2024 to Base. Founded by <Link href="https://ens0.me">ens0.eth</Link>.
             </p>
 
             <h2 className="text-3xl font-bold my-4">repos</h2>
@@ -21,9 +26,11 @@ export default function Home() {
                 </li>
             </ul>
 
-            <h2 className="text-3xl font-bold my-4">socials</h2>
-
-            <a rel="noopener" href="https://x.com/achiev3protocol/" target="_blank" title="Twitter"><RiTwitterXFill style={{width: "32px", height: "32px"}} /></a>
+            <div className="flex flex-row gap-4 pt-12">
+                <a rel="noopener" href="https://x.com/achiev3protocol/" target="_blank" title="Twitter"><RiTwitterXFill style={{width: "32px", height: "32px"}} /></a>
+                <a rel="noopener" href="https://github.com/achiev3protocol" target="_blank" title="GitHub"><FaGithub style={{width: "32px", height: "32px"}} /></a>
+            </div>
+            
         </main>
     )
 }
