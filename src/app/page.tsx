@@ -23,7 +23,7 @@ export default function Home() {
 
             <h2 className="text-3xl font-bold my-4">socials</h2>
 
-            <a href="https://x.com/achiev3protocol/" target="_blank" title="Twitter"><RiTwitterXFill style={{width: "32px", height: "32px"}} /></a>
+            <a rel="noopener" href="https://x.com/achiev3protocol/" target="_blank" title="Twitter"><RiTwitterXFill style={{width: "32px", height: "32px"}} /></a>
         </main>
     )
 }
