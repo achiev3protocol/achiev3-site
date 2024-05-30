@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
   title: "achiev3",
-  description: "Onchain achievements protocol.",
+  description: "decentralized, permissionless, composable, open source achievement protocol",
 };
 
 export default function RootLayout({
