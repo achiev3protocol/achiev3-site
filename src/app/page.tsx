@@ -16,7 +16,7 @@ export default function Home() {
                 Coming Summer 2024 to Base. Founded by <Link className="text-orange-600 hover:text-orange-400" href="https://ens0.me">ens0.eth</Link>.
             </p>
 
-            <div className="flex flex-row gap-4 pt-12">
+            <div className="flex flex-row gap-4 pt-6">
                 <a rel="noopener" href="https://x.com/achiev3protocol/" target="_blank" title="Twitter"><RiTwitterXFill style={{width: "32px", height: "32px"}} /></a>
                 <a rel="noopener" href="https://github.com/achiev3protocol" target="_blank" title="GitHub"><FaGithub style={{width: "32px", height: "32px"}} /></a>
             </div>
