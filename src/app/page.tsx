@@ -13,7 +13,7 @@ export default function Home() {
             </p>
 
             <p className="text-lg my-4 mx-8">
-                Coming Summer 2024 to Base. Founded by <Link className="text-orange-700 hover:text-orange-500" href="https://ens0.me">ens0.eth</Link>.
+                Coming Summer 2024 to Base. Founded by <Link className="text-orange-600 hover:text-orange-400" href="https://ens0.me">ens0.eth</Link>.
             </p>
 
             <div className="flex flex-row gap-4 pt-12">
@@ -25,10 +25,10 @@ export default function Home() {
 
             <ul className="text-lg list-disc">
                 <li className="my-1">
-                    <Link href="https://github.com/achiev3protocol/achiev3-foundry" className="text-orange-700 hover:text-orange-500" target="_blank">foundry</Link> - protocol smart contracts
+                    <Link href="https://github.com/achiev3protocol/achiev3-foundry" className="text-orange-600 hover:text-orange-400" target="_blank">foundry</Link> - protocol smart contracts
                 </li>
                 <li className="my-1">
-                    <Link href="https://github.com/achiev3protocol/achiev3-site" className="text-orange-700 hover:text-orange-500" target="_blank">website</Link> - achiev3.com site
+                    <Link href="https://github.com/achiev3protocol/achiev3-site" className="text-orange-600 hover:text-orange-400" target="_blank">website</Link> - achiev3.com site
                 </li>
             </ul>
 
