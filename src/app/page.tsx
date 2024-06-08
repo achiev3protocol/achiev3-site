@@ -42,7 +42,7 @@ export default function Home() {
 
                 <dl className="my-4">
                     <dt className="font-bold mb-1">How much does it cost?</dt>
-                    <dd>Unlocking achievements only costs gas &mdash; and will remain that way forever. A small fee will be charged to register a new achievement set with the official implementation of the protocol. In the future, we may offer things like support packages or APIs for a modest price.</dd>
+                    <dd>Unlocking achievements only costs gas &mdash; and will remain that way forever. A small fee will be charged to register a new achievement set with the official implementation of the protocol. We will also provide tools like APIs and builder tools that may have paid features.</dd>
                 </dl>
             </div>
             
